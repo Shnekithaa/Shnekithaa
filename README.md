@@ -16,7 +16,7 @@ I have a portfolio of projects ranging from e-commerce websites to social media 
 
 🌱 Continuous Learner:
 
-I'm an avid learner, constantly exploring new technologies and frameworks to stay at the forefront of the ever-evolving web development landscape. Currently, I'm diving deeper into serverless architectures and exploring the potential of GraphQL in modern web applications.
+I'm an avid learner, constantly exploring new technologies and frameworks to stay at the forefront of the ever-evolving web development landscape. Currently, I'm diving deeper into the domain of Artificial Intelligence and DataScience.
 
 💬 Let's Connect:
 
