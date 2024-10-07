@@ -1,27 +1,22 @@
-👋 Hello there! I'm a passionate Full Stack Developer with a strong foundation in the MERN stack (MongoDB, Express.js, React.js, and Node.js). With a keen eye for design and functionality, I have successfully built and deployed numerous websites that are not only visually appealing but also highly efficient and user-friendly.
+<h1 align="center">Hi 👋, I'm Shnekithaa</h1>
+<h3 align="center">A passionate Full Stack Web developer from India specializing in MERN stack</h3>
 
-🔧 Technical Skills:
+- 🌱 I’m currently learning **MERN Stack**
 
-Frontend: Proficient in creating dynamic and responsive web applications using React.js, HTML5, CSS3, and JavaScript (ES6+). Familiar with frontend frameworks like Bootstrap and Material-UI for sleek design.
+- 💬 Ask me about **MERN Stack, Python, C++**
 
-Backend: Experienced in developing robust server-side applications with Node.js and Express.js. Proficient in implementing RESTful APIs and integrating third-party APIs for enhanced functionality.
+- 📫 How to reach me **shnekithaasatheesh2004@gmail.com**
 
-Database: Skilled in database design and management using MongoDB and MySQL. Comfortable with Mongoose for object data modeling.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/balashnekithaa-satheesh-kumar-1886242b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balashnekithaa-satheesh-kumar-1886242b3" height="30" width="40" /></a>
+</p>
 
-Tools & Technologies: Git for version control, npm for package management, and well-versed in using various development tools like Figma, VS Code, Netlify, Mongo Atlas and Postman for API testing.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-🚀 Projects:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shnekithaa&show_icons=true&locale=en&layout=compact" alt="shnekithaa" /></p>
 
-I have a portfolio of projects ranging from e-commerce websites to social media platforms, demonstrating my ability to tackle complex problems and deliver high-quality solutions. Check out my repositories for a glimpse into my work and the diverse range of technologies I've explored.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shnekithaa&show_icons=true&locale=en" alt="shnekithaa" /></p>
 
-🌱 Continuous Learner:
-
-I'm an avid learner, constantly exploring new technologies and frameworks to stay at the forefront of the ever-evolving web development landscape. Currently, I'm diving deeper into the domain of Artificial Intelligence and DataScience.
-
-💬 Let's Connect:
-
-I'm always open to collaborating on interesting projects or discussing innovative ideas. Feel free to reach out if you're looking for a dedicated developer to bring your vision to life or just want to chat about the latest tech trends.
-
-📫 How to reach me: shnekithaasatheesh2004@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/balashnekithaa-satheesh-kumar-1886242b3/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shnekithaa&" alt="shnekithaa" /></p>
